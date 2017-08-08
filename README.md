@@ -6,8 +6,8 @@ Este repositorio contiene la **información general del curso**, que se dicta en
 Las secciones vigentes ofrecidas este semestre, **junto a sus calendarizaciones, evaluaciones y documentos específicos** son las siguientes:
 
 
-1. [Sección Troncoso](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso**
-2. [Sección Majluf](https://github.com/sergiomajluf/Programacion-20172S2) - profesor Sergio **Majluf** <-- esta sección
+1. [Sección Troncoso](https://github.com/nicotron/UDD_Programacion_2017_1sem) - profesor Nicolás **Troncoso** < esta sección
+2. [Sección Majluf](https://github.com/sergiomajluf/Programacion-20172S2) - profesor Sergio **Majluf** 
 3. [Sección Zamorano](https://github.com/Franzel/UDD_Programacion_2017_1sem) - profesor Francisco **Zamorano**
 
 
@@ -21,33 +21,36 @@ Los **contenidos detallados del programa** están disponibles en [esta página](
 
 
 
-## Calendario de clases Sección #2
+## Calendario de clases Sección #5
 
-- Martes 08 de Agosto, 08:30AM a 11:20, Lab 25
-- **Martes 15 de Agosto FERIADO**
-- Martes 22 de Agosto, 08:30AM a 11:20, Lab 25
-- Martes 29 de Agosto, 08:30AM a 11:20, Lab 25
-- Martes 05 de Septiembre, 08:30AM a 11:20, Lab 25
-- Martes 12 de Septiembre, 08:30AM a 11:20, Lab 25
-- **Martes 19 de Septiembre FERIADO**
-- Martes 26 de Septiembre, 08:30AM a 11:20, Lab 25
-- Martes 03 de Octubre, 08:30AM a 11:20, Lab 25
+- Jueves 10 de Agosto, 2:30PM a 5:20PM, Lab 32
+- Jueves 17 de Agosto, 2:30PM a 5:20PM, Lab 32
+- Jueves 24 de Agosto, 2:30PM a 5:20PM, Lab 32
+- Jueves 31 de Agosto, 2:30PM a 5:20PM, Lab 32
+- Jueves 07 de Septiembre, 2:30PM a 5:20PM, Lab 32
+- Jueves 14 de Septiembre, 2:30PM a 5:20PM, Lab 32
+- ~~Jueves 21 de Septiembre~~
+- Jueves 28 de Septiembre, 2:30PM a 5:20PM, Lab 32
+- **Examen Jueves 05 de Octubre, 2:30PM a 5:20PM, Lab 32** 
 
 
 ###### Se coordinará una clase de recuperación junto al curso en fecha por definir.
 
 
-## Calendario de clases Sección #3
+## Calendario de clases Sección #6
 
-- 10 de Octubre Primera Clase
-- 17 de Octubre
-- 24 de Octubre
-- 31 de Octubre
-- 7 de Noviembre
-- 14 de Noviembre
-- 21 de Noviembre
-- 28  de Noviembre **Examen**
+- 12 de Octubre Primera Clase
+- ~~19 de Octubre~~
+- 26 de Octubre
+- 2 de Noviembre
+- ~~9 de Noviembre~~
+- 16 de Noviembre
+- 23 de Noviembre
+- 30 de Noviembre
+- 07 de Diciembre **Examen**
 
+
+**Se debe recuperar una clase**
 
 
 ## Competencias
@@ -80,7 +83,7 @@ En la mayoría de las clases existirá un "Desafío", que busca desarrollar habi
 * Se observará la participación en clases, el nivel de aporte a la clase y la colaboración con compañeros.
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al propio trabajo y al de sus pares.
 
-### Compromiso Ético
+## Compromiso Ético
 
 El código con el que trabajaremos en el curso responde a la lógica de _[Código abierto](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)_, es decir, material intelectual desarrollado y distribuido libremente.
 
@@ -98,9 +101,9 @@ La práctica de plagio no será tolerada y considerada una falta grave. De suced
 ## Bibliografía
 ### Bibliografía Obligatoria:
 1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
-   2.Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
-    3.[Referencia de Processing](https://processing.org/reference/). Documentación en línea recuperado 7 de Agosto de 2017.
+2.	Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.
+3.	[Referencia de Processing](https://processing.org/reference/). Documentación en línea recuperado 7 de Agosto de 2017.
 
 ### Bibliografía Complementaria:
 1.	Processing Foundation. Descargar Processing. Recuperado: 7 de Mayo 2017, desde [http://www.processing.org/download](http://www.processing.org/download)
-   2.Programación Creativa con Processing. Recuperado: 7 de Mayo 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
+2.	Programación Creativa con Processing. Recuperado: 7 de Mayo 2017 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing)
